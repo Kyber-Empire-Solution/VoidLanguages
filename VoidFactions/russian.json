@@ -12,7 +12,7 @@
     "joined": "Присоединился",
     "sessionPlaytime": "Время сессии",
     "totalPlaytime": "Общее время",
-    "factionJoined": "Время во фракции",
+    "factionJoined": "Время в ОПГ",
 
     "balance": "Баланс:",
     "itemCount": ":x:/:max: предметов",
@@ -27,17 +27,17 @@
 
     "assets": "Активы",
 
-    "createFaction": "Создать фракцию",
-    "joinFaction": "Присоеднится к фракции",
+    "createFaction": "Создать ОПГ",
+    "joinFaction": "Присоеднится к ОПГ",
     
-    "createFactionOrJoin": "Создай фракцию или присоединись к существующей",
-    "noFactionText": "Вы можете либо создать новую фракцию и стать её боссом, либо присоединиться к уже существующей..",
-    "factionCreateCost": "Стоимость создания новой фракции :color: :money:.",
+    "createFactionOrJoin": "Создай ОПГ или присоединись к нему",
+    "noFactionText": "Вы можете либо создать новое ОПГ, либо присоединиться к уже существующему..",
+    "factionCreateCost": "Стоимость создания нового ОПГ :color: :money:.",
 
     "select": "Выбрать",
     "create": "Создать",
 
-    "factions": "Фракции",
+    "factions": "ОПГ",
     "dynamic": "Динамика",
     "static": "Статистика",
 
@@ -48,22 +48,22 @@
     "levelUpMsg": "У вас :level: уровень",
 
     "chooseMode": "Выбери мод",
-    "chooseFaction": "Выбе фракцию",
+    "chooseFaction": "Выбери ОПГ",
 
     "suitedForSerious": "Подходит для SeriousRP",
     "suitedForNonSerious": "Подходит для несерьезных RP",
 
-    "addFaction": "Добавить новую фракцию",
+    "addFaction": "Добавить новое ОПГ",
     "addRank": "Добавить новый ранг",
     "addMember": "Добавить участника",
 
-    "newFaction": "Новая фракция",
+    "newFaction": "Новое ОПГ",
     "newRank": "Новый ранг",
 
-    "faction": "Фракция",
-    "factionName": "Имя фракции",
+    "faction": "ОПГ",
+    "factionName": "Имя ОПГ",
 
-    "editFaction": "Изменить фракцию :name:",
+    "editFaction": "Изменить ОПГ :name:",
     "editRank": "Изменить ранг :name:",
     "editUpgrade": "Изменить улучшение :name:",
     "editReward": "Изменить награду :name:",
@@ -76,17 +76,17 @@
 
     "name": "Название",
     "description": "Описание",
-    "factionTag": "Тэг фракции",
-    "subfactionOf": "Подфракция",
-    "factionColor": "Цвет фракции",
+    "factionTag": "Тэг ОПГ",
+    "subfactionOf": "ПОД-ОПГ",
+    "factionColor": "Цвет ОПГ",
     "icon": "Icon",
-    "factionIcon": "Иконка фракции",
+    "factionIcon": "Иконка ОПГ",
     "maxMembers": "Макс участников",
 
     "canCaptureTerritory": "Может захватывать точки",
     "showOnBoard": "Показывать на доске",
     "inviteRequired": "Требуется приглашение",
-    "isDefaultFaction": "Фракция по умолчанию",
+    "isDefaultFaction": "ОПГ по умолчанию",
 
     "inviteOnly": "Только по приглашению",
 
@@ -131,7 +131,7 @@
 
     "setRanks": "Выдать ранг",
 
-    "manageFaction": "Управляйте фракцией",
+    "manageFaction": "Управляйте ОПГ",
     "purchaseUpgrades": "Покупка улучшений",
 
     "canWithdrawMoney": "Снять денег",
@@ -148,8 +148,8 @@
     "yes": "Да",
     "no": "Нет",
 
-    "onlyFactionMembers": "Только члены фракции",
-    "factionAndSubfactions": "Фракция и подфракции",
+    "onlyFactionMembers": "Только члены ОПГ",
+    "factionAndSubfactions": "ОПГ и ПОД-ОПГ",
     "minimumLevel": "Минимальный уровень",
 
     "upgradeCreated": "Успешно созданное улучшение :name:!",
@@ -230,16 +230,16 @@
 
     "properties": "Свойства",
 
-    "factionCreated": "Фракция :name: успешно создана!",
-    "factionUpdated": "Фракция :name: успешно отредактирована!",
-    "factionDeleted": "Фракция :name: успешно удалена!",
+    "factionCreated": "ОПГ :name: успешно создана!",
+    "factionUpdated": "ОПГ :name: успешно отредактирована!",
+    "factionDeleted": "ОПГ :name: успешно удалена!",
     "memberCountDemoted": "(:count: участников было понижено)",
 
     "rankCreated": "Ранг :name: was успешно создан!",
     "rankUpdated": "Ранг :name: was успешно изменён!",
     "rankDeleted": "Ранг :name: was успешно удалён!",
     "maxRanksCreated": "Не удалось создать ранг :name: из-за лимита символов (:limit:)!",
-    "maxFactionsCreated": "Не удалось создать фракцию :name: из-за лимита символов (:limit:)!",
+    "maxFactionsCreated": "Не удалось создать ОПГ :name: из-за лимита символов (:limit:)!",
     "membersInRankErr": "Не удалось удалить ранг :name: Потому что внутри есть участники, и их нельзя понизить!",
 
     "memberInvited": "Игрок :name: был приглашён в :faction:!",
@@ -250,7 +250,7 @@
     "memberLeftFaction": "Вы покинули :faction:",
 
     "memberKicked": "Участник :name: был выгнан!",
-    "memberAdded": "Игрок :name: успешно добавлен во фракцию :faction:!",
+    "memberAdded": "Игрок :name: успешно добавлен в ОПГ :faction:!",
 
     "itemDeposited": "Успешно внесён предмет :name:!",
     "itemWithdrawn": "Успешно снят предмет :name:!",
@@ -258,7 +258,7 @@
     "moneyDeposited": "Успешно пополнено :money:!",
     "moneyWithdrawn": "Успешно снято :money:!",
 
-    "noFactionMoney": "У фракции нет столько денег!",
+    "noFactionMoney": "У ОПГ нет столько денег!",
 
     "memberRankChanged": "Ранг :name: был изменён на :rank:!",
     "memberPromoted": "Участник :name: был повышен до :rank:!",
@@ -275,7 +275,7 @@
     "maxMembersLimit": "Максимально число участников слишком велик!",
     "noJobs": "В этом ранге нет вакансий!",
 
-    "maxMembersErr": "Фракция заполнена!",
+    "maxMembersErr": "ОПГ заполнено!",
     "maxRankMembersErr": "Ранг полон!",
     "minLevelErr": "У вас нет необходимого уровня!",
 
@@ -295,24 +295,24 @@
 
     "unlockedReward": "Награда :reward: открыта!",
 
-    "cantJoinNoDefaultFactions": "Для начала Фракцию необходимо настроить! Сделайте это и снова попробуйте.",
-    "noDefaultFactions": "Фракций по умолчанию нет! Их нужно будет настроить!",
+    "cantJoinNoDefaultFactions": "Для начала ОПГ необходимо настроить! Сделайте это и снова попробуйте.",
+    "noDefaultFactions": "ОПГ по умолчанию нет! Их нужно будет настроить!",
 
 	"deleteRankPrompt": "Вы уверены, что хотите удалить ранг :rank:? Это действие будет необратимым!",
-	"deleteFactionPrompt": "Вы уверены, что хотите удалить фракцию :faction:? Это действие будет необратимым!",
-	"disbandFactionPrompt": "Вы уверены, что хотите распустить свою фракцию? Это действие будет необратимым!",
-	"disbandFaction":"Расформировать фракцию",
+	"deleteFactionPrompt": "Вы уверены, что хотите удалить ОПГ :faction:? Это действие будет необратимым!",
+	"disbandFactionPrompt": "Вы уверены, что хотите распустить своё ОПГ? Это действие будет необратимым!",
+	"disbandFaction":"Расформировать ОПГ",
 	"switch": "Сменить",
-	"switchType": "Сменить тип фракции",
-	"switchTypePrompt": "Вы уверены, что хотите сменить тип фракции? Все фракции будут удалены! Ваш сервер будет перезагружен после смены типа!",
+	"switchType": "Сменить тип ОПГ",
+	"switchTypePrompt": "Вы уверены, что хотите сменить тип ОПГ? Все ОПГ будут удалены! Ваш сервер будет перезагружен после смены типа!",
 	"restartingIn": "Перезапуск сервера через: время: секунды!",
 	"changingJobRestricted": "У вас нет доступа к этой работе!",
 	"upgradePurchased":"Вы приобрели обновление :name:!",
 	"inviteMember": "Пригласить игрока",
-	"factionInvite": "Приглашение фракции",
+	"factionInvite": "Приглашение в ОПГ",
 	"invitedTo": "Вас пригласили",
 	"memberCount": ":x:/:total: участников",
-	"factionCount": ":x: фракций",
+	"factionCount": ":x: ОПГ",
 	"unlock": "Разблокировать",
 	"neededToUnlock": "Необходимо для разблокировки",
 	"details": "Подробности",
@@ -324,10 +324,10 @@
 	"now": "Сейчас",
 	"back" : "Назад",
 	"save": "Сохранить",
-	"deleteFaction": "Удалить фракцию",
+	"deleteFaction": "Удалить ОПГ",
 	"deleteRank": "Удалить ранг",
 	"leave": "Выйти",
-	"leaveFaction": "Выйти из фракции",
+	"leaveFaction": "Выйти из ОПГ",
 	"accept": "Подтвердить",
 	"deny": "Отказаться",
 	"cancel": "Отмена",
@@ -349,8 +349,8 @@
 
 	"cantAfford": "Вы не можете это сделать!",
 
-	"staticFactionsContent": "Администрация может создавать фракции и решать, кто будет лидером и какие права есть у каждого ранга.",
-	"dynamicFactionsContent": "Игроки могут создать свою фракцию и иметь полный контроль над ней. Никто не скажет им, как ею руководить.",
+	"staticFactionsContent": "Администрация может создавать ОПГ и решать, кто будет лидером и какие права есть у каждого ранга.",
+	"dynamicFactionsContent": "Игроки могут создать свою ОПГ и иметь полный контроль над ней. Никто не скажет им, как ею руководить.",
 
 	"xp_npckilled": "Персонаж умер",
 	"xp_npckilled_desc": "Сколько опыта вы получаете за убийство NPC",
@@ -382,25 +382,25 @@
 	"settings_menucommand_desc": "Какая команда будет использоваться для открытия меню?",
 
 	"settings_maxtaglength": "Максимальная длина тега",
-	"settings_maxtaglength_desc": "Продолжительность тега фракции",
+	"settings_maxtaglength_desc": "Продолжительность тега ОПГ",
 
 	"settings_defaultrankname": "Имя владельца по умолчанию",
 	"settings_defaultrankname_desc": "Как будет называться ранг владельца по умолчанию?",
 
 	"settings_defaultmaxmembers": "Максимальное количество участников по умолчанию",
-	"settings_defaultmaxmembers_desc": "Какое максимальное количество участников стартовой фракции?",
+	"settings_defaultmaxmembers_desc": "Какое максимальное количество участников стартовой ОПГ?",
 
 	"settings_defaultmaxitems": "Максимальное количество товаров по умолчанию",
-	"settings_defaultmaxitems_desc": "Какое максимальное количество предметов у стартовой фракции?",
+	"settings_defaultmaxitems_desc": "Какое максимальное количество предметов у стартовой ОПГ?",
 
-	"settings_factioncreatecost": "Стоимость создания фракции",
-	"settings_factioncreatecost_desc": "Сколько будет стоить создание фракции?",
+	"settings_factioncreatecost": "Стоимость создания ОПГ",
+	"settings_factioncreatecost_desc": "Сколько будет стоить создание ОПГ?",
 
-	"settings_factioncreatecurrency": "Валюта для создания фракции",
-	"settings_factioncreatecurrency_desc": "Какую валюту использовать для создания фракции?",
+	"settings_factioncreatecurrency": "Валюта для создания ОПГ",
+	"settings_factioncreatecurrency_desc": "Какую валюту использовать для создания ОПГ?",
 
-	"settings_promotecanselect": "Выберите фракцию для продвижения",
-	"settings_promotecanselect_desc": "Можно ли выбрать конкретную фракцию при переходе между фракциями?",
+	"settings_promotecanselect": "Выберите ОПГ для продвижения",
+	"settings_promotecanselect_desc": "Можно ли выбрать конкретную ОПГ при переходе между ОПГ?",
 
 	"settings_menubind": "Связка клавиш для вызова меню",
 	"settings_menubind_desc": "Какая клавиша будет использоваться для открытия меню?",
@@ -433,10 +433,10 @@
 	"settings_maxlevel_desc": "Какого максимального уровня вы можете достичь?",
 
 	"settings_disablenametag" : "Отключить тег имени",
-	"settings_disablenametag_desc" : "Отключить тег с названием фракции который отображается в чате.",
+	"settings_disablenametag_desc" : "Отключить тег с названием ОПГ который отображается в чате.",
 
 	"settings_skipfirstrank" : "Пропустить первый ранг?",
-	"settings_skipfirstrank_desc" : "Должен ли быть пропущен первый ранг при возвращении в стандартную фракцию?",
+	"settings_skipfirstrank_desc" : "Должен ли быть пропущен первый ранг при возвращении в стандартную ОПГ?",
 
         "settings_disablexpsystem" : "Отключить XP систему?",
         "settings_disablexpsystem_desc" : "Вы хотите отключить встроенную XP систему?",
